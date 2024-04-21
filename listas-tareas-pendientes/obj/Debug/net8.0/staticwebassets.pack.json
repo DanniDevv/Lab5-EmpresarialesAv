@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dante\\Documents\\workspaces\\Empresariales\\lab5\\listas-tareas-pendientes\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\listas-tareas-pendientes.bundle.scp.css",
+      "PackagePath": "staticwebassets\\listas-tareas-pendientes.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dante\\Documents\\workspaces\\Empresariales\\lab5\\listas-tareas-pendientes\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\dante\\Documents\\workspaces\\Empresariales\\lab5\\listas-tareas-pendientes\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dante\\Documents\\workspaces\\Empresariales\\lab5\\listas-tareas-pendientes\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dante\\Documents\\workspaces\\Empresariales\\lab5\\listas-tareas-pendientes\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.listas-tareas-pendientes.props",
+      "PackagePath": "build\\listas-tareas-pendientes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.listas-tareas-pendientes.props",
+      "PackagePath": "buildMultiTargeting\\listas-tareas-pendientes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.listas-tareas-pendientes.props",
+      "PackagePath": "buildTransitive\\listas-tareas-pendientes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.listas-tareas-pendientes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

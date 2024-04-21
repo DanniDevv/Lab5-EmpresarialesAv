@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLu6EheQphQCwGRdbeH2gvv4QvJCQ2Kl0qGgcTt1XX83v1zF+mMZ6nDeNnQS8919x7TgeYMonrbtMTjiGo71bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dante\\Documents\\workspaces\\Empresariales\\lab5\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dante\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
